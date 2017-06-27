@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students schoolMaster="星哥" schoolName="北大">
+	<student idcard="001">
+		<name>文港</name>
+		<sex>boy</sex>
+	</student>
+	<student idcard="002">
+		<name>zongxing</name>
+		<sex>girl</sex>
+	</student>
+	<student idcard="003">
+		<name>axing</name>
+		<sex>boy</sex>
+	</student>
+</students>
